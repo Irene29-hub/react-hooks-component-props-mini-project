@@ -12,5 +12,5 @@ function App() {
       <ArticleList posts={blogData.posts}/>
     </div>
   );
-
+}
 export default App;
